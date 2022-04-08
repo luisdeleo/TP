@@ -1,0 +1,50 @@
+#titulos{
+    padding: 50px;
+}
+#presen {
+    margin-left: 90px !important;
+    padding: 5px !important;
+}
+#edu{
+    margin: 0px;
+    padding: 30px;
+}
+
+#expe{
+    margin-left: 700px;
+    padding-right: 50px;
+}
+
+#prog{
+    margin: 0%;
+    padding: 30px;
+}
+
+#boton {
+    margin-left: 100px !important;
+}
+
+#nombre {
+    margin-left: 25px;
+}
+
+#banner {
+    margin-bottom: 5%;
+    width: 50%;
+    height: 50%;
+}
+
+#foto{
+    margin-right: 250px;
+    width: 12%;
+   
+}
+#foto2 {
+    margin-top: 300px;
+    margin-left: 100px ;
+    width: 40%;
+}
+#linea {
+    margin: 30px;
+    padding-bottom: 30px;
+}
